@@ -1,3 +1,3 @@
-export { BufferMemory } from "./buffer_memory.js";
-export { BaseMemory } from "./base.js";
+export { BufferMemory, BufferMemoryInput } from "./buffer_memory.js";
+export { BaseMemory, InputValues, OutputValues, MemoryVariables } from "./base.js";
 export { BufferWindowMemory } from "./buffer_window_memory.js";
